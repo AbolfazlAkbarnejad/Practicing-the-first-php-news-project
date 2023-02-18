@@ -17,10 +17,10 @@ define('DB_PASSWORD', '');
 //email
 define('MAIL_HOST', 'smtp.gmail.com');
 define('SMTP_AUTH', true);
-define('MAIL_USERNAME', 'testemaillllll513@gmail.com');
-define('MAIL_PASSWORD', 'qugdgddnbuvijudm');
+define('MAIL_USERNAME', 'email@gmail.com');
+define('MAIL_PASSWORD', '********');
 define('MAIL_PORT', 587);
-define('SENDER_MAIL', 'testemaillllll513@gmail.com');
+define('SENDER_MAIL', 'email@gmail.com');
 define('SENDER_NAME', 'دوره آنلاین php جامع');
 
 
